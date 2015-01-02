@@ -27,10 +27,10 @@ informally as the "Harvey Birdman Rule":
      manner or medium accessible to the general net public.
 
   4. Contributing by informal suggestions or proposals made in a
-     posting to the project mailing list is welcome. However, any such
-     suggestions or proposals that are made in the form of top-posted
-     replies to quoted earlier mailing list postings by others are
-     unacceptable and therefore shall be ignored.
+     posting to the project mailing list is welcome. However, suggestions
+     or proposals that are made in the form of top-posted replies to
+     quoted earlier mailing list postings by others are strongly
+     discouraged.
 
   5. Criticisms of, or proposed changes to, the Harvey Birdman Rule
      are welcome, though such criticisms or proposals must themselves
