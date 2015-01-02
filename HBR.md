@@ -1,9 +1,6 @@
 Harvey Birdman Rule
 ===================
 
-Preamble
---------
-
 A nontrivial number of interesting collaborative FLOSS legal endeavors
 have been operated in a relatively nontransparent and methodologically
 suboptimal manner. The following norms of project participation are
