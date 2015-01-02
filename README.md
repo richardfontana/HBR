@@ -1,4 +1,4 @@
 hbr
 ===
 
-Harvey Birdman Rule
+Harvey Birdman Rule (see: HBR.md)
