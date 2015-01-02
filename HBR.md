@@ -1,11 +1,15 @@
 Harvey Birdman Rule
 ===================
 
+Preamble
+--------
+
 A nontrivial number of interesting collaborative FLOSS legal endeavors
 have been operated in a relatively nontransparent and methodologically
-suboptimal manner. This project aims to be different, and this
-therefore necessitates the following norms of participation, which
-shall be known informally as the 'Harvey Birdman Rule':
+suboptimal manner. The following norms of project participation are
+designed to discourage this tendency. These norms shall be known
+informally as the "Harvey Birdman Rule":
+
 
   1. Contributions in the form of word-processing documents (even if
      in a free/open standard format), "redlined" or otherwise, are
