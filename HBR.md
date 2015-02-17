@@ -13,7 +13,7 @@ informally as the "Harvey Birdman Rule":
      unacceptable and will be deleted immediately.
 
   2. No private mailing lists (including but not limited to those
-     governed by the so-called Chatham House Rule) will be used by
+     governed by the so-called [Chatham House Rule][]) will be used by
      this project.  Public archiving of mailing lists used by this
      project is strongly encouraged; however, archives are not
      mandatory and partial archiving is permitted.
@@ -37,4 +37,4 @@ informally as the "Harvey Birdman Rule":
      comply with the Harvey Birdman Rule as it exists at the time the
      criticism or proposal is made.
 
-
+[Chatham House Rule]: https://en.wikipedia.org/wiki/Chatham_House_Rule
