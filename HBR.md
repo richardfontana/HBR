@@ -1,11 +1,11 @@
-Harvey Birdman Rule
-===================
+Hindering Backchannels Rule
+===========================
 
 A nontrivial number of interesting collaborative FLOSS legal endeavors
 have been operated in a relatively nontransparent and methodologically
 suboptimal manner. The following norms of project participation are
 designed to discourage this tendency. These norms shall be known
-informally as the "Harvey Birdman Rule":
+informally as the "Hindering Backchannels Rule":
 
 
   1. Contributions in the form of word-processing documents (even if
@@ -32,9 +32,9 @@ informally as the "Harvey Birdman Rule":
      quoted earlier mailing list postings by others are strongly
      discouraged.
 
-  5. Criticisms of, or proposed changes to, the Harvey Birdman Rule
+  5. Criticisms of, or proposed changes to, the Hindering Backchannels Rule
      are welcome, though such criticisms or proposals must themselves
-     comply with the Harvey Birdman Rule as it exists at the time the
+     comply with the Hindering Backchannels Rule as it exists at the time the
      criticism or proposal is made.
 
 [Chatham House Rule]: https://en.wikipedia.org/wiki/Chatham_House_Rule
