@@ -1,4 +1,4 @@
-hbr
+HBR
 ===
 
 Hindering Backchannels Rule (see: HBR.md)
